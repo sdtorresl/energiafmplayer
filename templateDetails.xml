@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="2.5" type="template">
+<<<<<<< HEAD
         <name>energiafmplayer</name>
+=======
+        <name>Energia Player Template</name>
+>>>>>>> c2682519c965dca2bd923439e492d758c9fb0ad0
         <creationDate>2014-01-07</creationDate>
         <author>Sergio Daniel Torres</author>
         <authorEmail>storres@exeamedia.com</authorEmail>
@@ -12,7 +16,11 @@
         <files>
                 <filename>index.php</filename>
                 <filename>templateDetails.xml</filename>
+<<<<<<< HEAD
                 <folder>img</folder>
+=======
+                <folder>images</folder>
+>>>>>>> c2682519c965dca2bd923439e492d758c9fb0ad0
                 <folder>css</folder>
                 <folder>js</folder>
         </files>

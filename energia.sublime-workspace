@@ -1,0 +1,952 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"file",
+				"filePath"
+			],
+			[
+				"fi",
+				"filePath"
+			],
+			[
+				"v",
+				"valid"
+			],
+			[
+				"re",
+				"readLine"
+			],
+			[
+				"Str",
+				"String"
+			],
+			[
+				"pri",
+				"print"
+			],
+			[
+				"fil",
+				"filePath"
+			],
+			[
+				"Strin",
+				"String"
+			],
+			[
+				"St",
+				"String"
+			],
+			[
+				"nam",
+				"names"
+			],
+			[
+				"in",
+				"indices"
+			],
+			[
+				"mysql_",
+				"mysql_affected_rows"
+			],
+			[
+				"home",
+				"home_id"
+			],
+			[
+				"REt",
+				"returnMessage"
+			],
+			[
+				"ro",
+				"room_id"
+			],
+			[
+				"hom",
+				"home_id"
+			],
+			[
+				"mysql_fetch_a",
+				"mysql_fetch_assoc"
+			],
+			[
+				"ec",
+				"encrypted"
+			],
+			[
+				"enc",
+				"encrypted_password"
+			],
+			[
+				"Pass",
+				"password"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"clo",
+				"Close"
+			],
+			[
+				"mysql_err",
+				"mysql_error"
+			],
+			[
+				"my",
+				"mysql_error"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"succ",
+				"SUCCESS"
+			],
+			[
+				"usr",
+				"username"
+			],
+			[
+				"no",
+				"no_of_rows"
+			],
+			[
+				"ECH",
+				"echo"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"mysql_n",
+				"mysql_num_rows"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"RE",
+				"result"
+			],
+			[
+				"EC",
+				"echo"
+			],
+			[
+				"Ret",
+				"returnMessage"
+			],
+			[
+				"DB",
+				"DB_DATABASE"
+			],
+			[
+				"userE",
+				"isUserExisted"
+			],
+			[
+				"RET",
+				"returnMessage"
+			],
+			[
+				"ret",
+				"returnMessage"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"DB_",
+				"DB_PASSWORD"
+			],
+			[
+				"MY",
+				"my_home"
+			],
+			[
+				"MYS",
+				"mysqlpass"
+			],
+			[
+				"Conne",
+				"connection"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"ta",
+				"ta-l	text-align: left;"
+			],
+			[
+				"TEX",
+				"text-align"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"li",
+				"liq_script"
+			],
+			[
+				"ra",
+				"random"
+			],
+			[
+				"p",
+				"playlist"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-variant"
+			],
+			[
+				"se",
+				"sans-serif"
+			],
+			[
+				"htm",
+				"HTML5"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"P1_",
+				"P1_5"
+			],
+			[
+				"Ia",
+				"Ia_rms"
+			],
+			[
+				"Va",
+				"Va_rms"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 4970,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 7931,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 159.0,
+		"selected_items":
+		[
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"br",
+				"SFTP: Browse Server…"
+			],
+			[
+				"bre",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sn",
+				"Snippet: if __name__ == '__main__'"
+			],
+			[
+				"snip",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"snipp",
+				"Snippet: if __name__ == '__main__'"
+			],
+			[
+				"bro",
+				"SFTP: Browse Server…"
+			],
+			[
+				"ed",
+				"SFTP: Edit Server…"
+			],
+			[
+				"ser",
+				"SFTP: Setup Server…"
+			],
+			[
+				"brow",
+				"SFTP: Browse Server…"
+			],
+			[
+				"edit",
+				"SFTP: Edit Server…"
+			],
+			[
+				"server",
+				"SFTP: Edit Server…"
+			],
+			[
+				"setup",
+				"SFTP: Setup Server…"
+			],
+			[
+				"sf",
+				"SFTP: Browse Server…"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"php",
+				"Snippet: <?php … ?>"
+			],
+			[
+				"sft",
+				"SFTP: Setup Server…"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"cas",
+				"Convert Case: Upper Case"
+			],
+			[
+				"sni",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"she",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"setu",
+				"SFTP: Setup Server…"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"hm",
+				"Set Syntax: HTML"
+			],
+			[
+				"emme",
+				"Set Syntax: Emmet"
+			],
+			[
+				"lo",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"to",
+				"Toggle Comment"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"octa",
+				"Snippet: Octave function"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"for",
+				"Snippet: <?php foreach (…) … <?php endforeach ?>"
+			],
+			[
+				"snippet fo",
+				"Snippet: Octave function"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/sergio/Sites/energiafmplayer/img/bg-contact.png",
+		"/home/sergio/Sites/energiafmplayer/css/main.css",
+		"/home/sergio/Sites/energiafmplayer/index.html",
+		"/usr/share/xbmc/addons/skin.confluence/720p/VideoFullScreen.xml",
+		"/usr/share/xbmc/userdata/RssFeeds.xml",
+		"/home/sergio/Programming/Java/Permutador/permutaciones.java",
+		"/tmp/sublime-sftp-browse-1388453765/el02/var/www/vhosts/public/energia/cali/reproductor/index.html",
+		"/tmp/sublime-sftp-browse-1388452868/el02/var/www/vhosts/public/energia/online/reproductor/index.html",
+		"/home/sergio/Documents/Trabajo/Player for raspberry/lib/Raspberry_conn.mod",
+		"/tmp/sublime-sftp-browse-1388259838/raspberry/home/pi/myhome/myhome.py",
+		"/tmp/sublime-sftp-browse-1388259111/raspberry/home/pi/myhome/main.py",
+		"/tmp/sublime-sftp-browse-1388083673/raspberry/home/pi/myhome/main.py",
+		"/home/sergio/.config/sublime-text-3/Packages/User/sftp_servers/raspberry",
+		"/tmp/sublime-sftp-browse-1388081771/el02/var/www/vhosts/public/energia/online/reproductor/index.html",
+		"/home/sergio/.xbmc/userdata/RssFeeds.xml",
+		"/usr/share/xbmc/addons/skin.confluence/720p/Home.xml",
+		"/usr/share/xbmc/addons/skin.confluence/720p/Font.xml",
+		"/usr/share/xbmc/addons/skin.confluence/720p/Startup.xml",
+		"/tmp/sublime-sftp-browse-1387490028/raspberry/usr/share/xbmc/addons/skin.confluence/720p/Startup.xml",
+		"/media/sergio/62ba9ec9-47d9-4421-aaee-71dd6c0f3707/usr/share/xbmc/addons/skin.confluence/addon.xml",
+		"/tmp/sublime-sftp-browse-1387492861/raspberry/usr/share/xbmc/addons/skin.confluence/720p/Font.xml",
+		"/tmp/sublime-sftp-browse-1387485170/raspberry/usr/share/xbmc/addons/skin.confluence/720p/VideoFullScreen.xml",
+		"/media/sergio/62ba9ec9-47d9-4421-aaee-71dd6c0f3707/usr/share/xbmc/addons/skin.confluence/720p/Font.xml",
+		"/media/sergio/62ba9ec9-47d9-4421-aaee-71dd6c0f3707/usr/share/xbmc/addons/skin.confluence/720p/VideoFullScreen.xml",
+		"/tmp/sublime-sftp-browse-1387283530/raspberry/home/pi/ExeaMediaPlayer/scripts/setup.sh",
+		"/tmp/sublime-sftp-browse-1387283920/raspberry/usr/share/xbmc/addons/skin.confluence/720p/Home.xml",
+		"/tmp/sublime-sftp-browse-1387284232/raspberry/usr/share/xbmc/addons/skin.confluence/720p/Startup.xml",
+		"/tmp/sublime-sftp-browse-1387283833/raspberry/usr/share/xbmc/addons/skin.confluence/720p/VideoFullScreen.xml",
+		"/tmp/sublime-sftp-browse-1387283276/raspberry/home/pi/.xbmc/userdata/guisettings.xml",
+		"/home/sergio/ExeaMediaPlayer/INSTALL.txt",
+		"/media/sergio/62ba9ec9-47d9-4421-aaee-71dd6c0f3707/home/pi/exeamediaplayer/xbmc/Startup.xml",
+		"/home/sergio/ExeaMediaPlayer/scripts/player.py",
+		"/home/sergio/ExeaMediaPlayer/scripts/syncfiles.sh",
+		"/media/sergio/62ba9ec9-47d9-4421-aaee-71dd6c0f3707/etc/rc.local",
+		"/home/sergio/ExeaMediaPlayer/xbmc/guisettings.xml",
+		"/media/sergio/62ba9ec9-47d9-4421-aaee-71dd6c0f3707/home/pi/exeamediaplayer/scripts/player.py",
+		"/home/sergio/ExeaMediaPlayer/xbmc/DialogBusy.xml",
+		"/tmp/sublime-sftp-browse-1387160391/el02/var/www/vhosts/public/energia/online/reproductor/index.html",
+		"/tmp/sublime-sftp-browse-1387146393/el02/var/www/vhosts/public/energia/online/consulta.php",
+		"/tmp/sublime-sftp-browse-1387159978/el02/var/www/vhosts/public/energia/online/templates/gk_esport/index.php",
+		"/tmp/sublime-sftp-browse-1387160300/el02/var/www/vhosts/public/energia/online/templates/gk_esport/html/com_k2/templates/generic.php",
+		"/tmp/sublime-sftp-browse-1387160167/el02/var/www/vhosts/public/energia/online/templates/gk_esport/html/index.html",
+		"/tmp/sublime-sftp-browse-1387146547/el02/var/www/vhosts/public/energia/online/seguridad.php",
+		"/tmp/sublime-sftp-browse-1387146531/el02/var/www/vhosts/public/energia/online/mysql_class.php",
+		"/home/sergio/Downloads/db_energia_dic_14.sql",
+		"/home/sergio/Documents/Trabajo/energia.fm",
+		"/tmp/sublime-sftp-browse-1387073018/el02/var/www/vhosts/public/energia/online/reproductor/index.html",
+		"/tmp/sublime-sftp-browse-1387075835/el02/var/www/vhosts/public/energia/online/reproductor/player.swf",
+		"/home/sergio/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/sergio/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/sergio/.config/sublime-text-3/Packages/User/sftp_servers/el02",
+		"/tmp/sublime-sftp-browse-1387057588/raspberry/var/www/index.php",
+		"/tmp/sublime-sftp-browse-1387057613/raspberry/var/www/include/DB_Functions.php",
+		"/home/sergio/Documents/Trabajo/Migración Energia",
+		"/tmp/sublime-sftp-browse-1386913534/raspberry/var/www/include/DB_Functions.php",
+		"/tmp/sublime-sftp-browse-1386913500/raspberry/var/www/index.php",
+		"/var/www/myhome/include/DB_Functions.php",
+		"/var/www/myhome/index.php",
+		"/home/sergio/Documents/skype.sandra",
+		"/tmp/sublime-sftp-browse-1386823426/raspberry/var/www/index.php",
+		"/tmp/sublime-sftp-browse-1386823417/raspberry/var/www/include/DB_Functions.php",
+		"/tmp/sublime-sftp-browse-1386823409/raspberry/var/www/include/DB_Connect.php",
+		"/tmp/sublime-sftp-browse-1386823397/raspberry/var/www/include/config.php",
+		"/tmp/sublime-sftp-browse-1386810763/raspberry/var/www/index.php",
+		"/home/sergio/Documents/Trabajo/Tareas Lafayette",
+		"/tmp/sublime-sftp-browse-1386720398/raspberry/var/www/index.php",
+		"/tmp/sublime-sftp-browse-1386718545/raspberry/var/www/yii/myhome/protected/config/main.php",
+		"/home/sergio/Programación/FirefoxOS/TitanesDelAjedrez/style/status.css",
+		"/home/sergio/Programación/FirefoxOS/TitanesDelAjedrez/style/headers.css",
+		"/home/sergio/Programación/FirefoxOS/TitanesDelAjedrez/app.html",
+		"/home/sergio/Programación/FirefoxOS/Ejercicio2/css/style.css",
+		"/home/sergio/Programación/FirefoxOS/Ejercicio2/index.html",
+		"/tmp/sublime-sftp-browse-1386210724/ema05/etc/liquidsoap/farmatodo.liq",
+		"/tmp/sublime-sftp-browse-1386212397/ema05/etc/liquidsoap/kokoriko.liq",
+		"/tmp/sublime-sftp-browse-1386172142/ema05/etc/liquidsoap/vida_activa.liq",
+		"/tmp/sublime-sftp-browse-1386169673/ema05/etc/liquidsoap/farmatodo.liq",
+		"/home/sergio/.config/sublime-text-3/Packages/User/sftp_servers/ema05",
+		"/tmp/sublime-sftp-browse-1386169509/ema05/etc/liquidsoap/farmatodo.liq",
+		"/var/www/domoapp/app/protected/config/console.php",
+		"/var/www/domoapp/app/protected/config/main.php",
+		"/var/www/domoapp/app/protected/views/layouts/main.php",
+		"/var/www/energiafmplayer/index.html",
+		"/home/sergio/Sites/index.html",
+		"/home/sergio/Sites/energiafmplayer/index.php",
+		"/home/sergio/Documents/FirefoxOS/Modulo2/index.html",
+		"/home/sergio/.bashrc",
+		"/home/sergio/Documents/FirefoxOS/Modulo2/tarea.html",
+		"/home/sergio/Documents/clases",
+		"/home/sergio/Documents/FirefoxOS/Modulo2/ejercicio.html",
+		"/home/sergio/natalia.html",
+		"/home/sergio/Sites/energiafmplayer/js/main.js",
+		"/home/sergio/Dropbox/Tesis 2013/Proyecto/Modulo dimmer/kicad/Dimmer.brd",
+		"/home/sergio/pagina.html",
+		"/home/sergio/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/sergio/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/sergio/Sites/energiafmplayer/main.css",
+		"/home/sergio/Sites/energiafmplayer/css/reset.css",
+		"/tmp/sublime-sftp-browse-1384551307/el01/var/www/vhost/drupal-7.22/sites/tottoplayer/modules/custom/exea_audio_player/exea_audio_player.info",
+		"/tmp/sublime-sftp-browse-1384551326/el01/var/www/vhost/drupal-7.22/sites/tottoplayer/modules/custom/exea_audio_player/exea_audio_player.install",
+		"/tmp/sublime-sftp-browse-1384548648/el01/var/www/vhost/drupal-7.22/sites/tottoplayer/modules/custom/exea_audio_player/js/exea_audio_player.js",
+		"/tmp/sublime-sftp-browse-1384548326/el01/var/www/vhost/drupal-7.22/sites/tottoplayer/modules/custom/exea_audio_player/exea_audio_player.module",
+		"/tmp/sublime-sftp-browse-1384548433/el01/var/www/vhost/drupal-7.22/sites/tottoplayer/modules/custom/exea_audio_player/exea_audio_player.info",
+		"/home/sergio/Documents/Potencia/Parcial/Parcial.m",
+		"/home/sergio/Dropbox/Tesis 2013/Proyecto/Prueba_RF/rf_test/rf_test.ino",
+		"/home/sergio/Documents/Potencia/Parcial.m",
+		"/home/sergio/Documents/Git",
+		"/home/sergio/Programación/Java/Taller1/Avanzado/Contacts.java",
+		"/home/sergio/Programación/C/MSP430/dimmer/dimmer.ino",
+		"/home/sergio/Downloads/app/core",
+		"/home/sergio/Downloads/app/data/content/style.css",
+		"/home/sergio/Downloads/app/data/app.js",
+		"/home/sergio/Downloads/app/data/content/index.html",
+		"/home/sergio/Downloads/app/data/bin/node",
+		"/home/sergio/Downloads/Programas/netbeans-7.4-linux.sh",
+		"/tmp/sublime-sftp-browse-1383666170/el01/var/www/vhost/drupal-7.22/sites/andres/modules/custom/andres_audio_player/js/andres_audio_player.js",
+		"/tmp/sublime-sftp-browse-1383661363/el01/var/www/vhost/drupal-7.22/sites/aguilaenvivo/modules/custom/aguila_audio_player/js/aguila_audio_player.js",
+		"/tmp/sublime-sftp-browse-1383661527/el01/var/www/vhost/drupal-7.22/sites/aguilaenvivo/modules/custom/aguila_audio_player/aguila_audio_player.module",
+		"/home/sergio/.config/sublime-text-3/Packages/User/sftp_servers/el01",
+		"/home/sergio/exeamediaplayer/scripts/setup.sh",
+		"/home/sergio/Downloads/buildamodule-resource-pack/buildamodule-resource-pack/Build Your First Drupal 7 Web Site/data/events.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"#contac",
+			"img",
+			"—",
+			"GTACTAACCGTCCGACGATGTAGCTTAATCTGCCATCCGTTATCCCGACCAAAGACCTGGCGGGGTAT--CTCA-AAGATAACATGCTGACATCGCTCCACAGACCGGTCACTNGATCTACCAGTGCGGTGGTATCGACAAGCGAACCATCGAGAAGTTCGAGAAGGTTAGTTAC-TTTCCCTTCGATCGCGCGTC-CT-------TTG------CCCATCGATTCTCCATA------CGACTCGAAACGTGCCCGCTACCCCGCTCGAGACC-AAAAATTTTGCGATATGACCGTAATTTTTTT---GGTGGGGCTT-TTACCCCGCCACTCGAGCGATGCGCGTTTCTGCCCTCTCA----TTTCCACAACCT--------TC-TG-AGCGCATCGTCACGTGTTAAGCAGTCACTAACCA-TTCGACAATAGGAAGCCGCTGAGCTCGGTAAGGGTTCCTTCAAGTACGCCTGGGTTCTTGACAAGCTCAAGGCCGAGCGTGAGCGTGGTATCACCATCGATATTGCTCTCTGGAAGTTCGAGACTCCTCGCTACTATGTCACCGTCATTGGTATGTTGCCGCT--CATGCCTCGTTCTCCCTTTATTCGTACTAACATATTACTCAGACGCTCCCGGTCATCGTGGCCCCCTTTCGCGACATGCCCTCACTGGTCGAATGCGAT-CGTCAAATTCATACCAACAGAGTCT-CGAATGAATATACACGACCGC-ATCCGCATTATTTGGGGCACACGTAGCCGATAAAA-CATGGGCTAAAC------------ATTCACTACAGGTCAAATCACCACCAAGGAGCTTGGAACCGTCATGCGCTCTCTCGGCCAGAACCCCTCCGAGTCTGAGCTTCAGGATATGATCAACGAGGTCGACGCTGACAATAACGGCACCATCGACTTCCCTGGTGCGTCATTTCCTAAGCTGATTACAGAGTGA-CAAGACTGACATTGGAG--AAAAGAGTTCCTTACCATGATGGCGCGCAAGATGAAGGACACCGACTCTGAGGAGGAGATCCGCGAGGCTTTCAAGGTTTTCGACCGTGACAACAACGGCTTCATTTCCGCTGCCGAACTCCGACATGTCATGACCTCCATTGGTGAGAAGCTCACCGATGACGAGGTTGATGAGATGATCCGGGAGGCTGACCAGGACGGTGATGGCCGAATCGACTGTGAGTTGCT-TACGGACAGCTCGCTTC-AAGGCTGGTAAGTCTTC--ACCGCGACT-TCAACTCGACGCGACACGCGTCTT---GGTCCATCAAAAACACCACCA-CTAACTTCATCACCAACAGCCCGCAAGTCCGCCCCATCCACCGGAGGTGTCAAGAAGCCTCACCGCTACAAGCCTGGTACCGTCGCTCTCCGTGAGATTCGACGATACCAGAAGTCGACTGAGCTCCTCATCCGAAAGCTCCCCTTCCAGCGCCTGGTAAGCATCACCTGC-TACATCAAC--CACAGCCTGACACATACTAACATTTGACAAACAGGTCCGCGAGATTGCCCAGGACTTCAAGTCTGATCTCCGCTTCCAGTCTTCCGCCATCGGTGCTCTCCAGGAGTCTGTCGAGTCCTACCTCGTCTCCCTCTTCGAGGATACCAACCTCTGTGCCATCCACGCCAATCGACAGCAATGGTGTCTACAA---CGGTACCTCCGAGCTCCAGCTCGAGCGTATGAGTGTCTACTTCAACGAGGTATGC-TTTA-ACAGTCAATGCCAAG-AATTCC-CAAGCTCACACAACTAGGCTCGGCGG---ATCAGCCCGCTCCCGGTAAAACGGGACGGCCC-GCCAGAGGACCCCTAAACTCT---GTTTCTATA-TGTAACTTCTGAGTAAAACCA-TAAATAAATCAAAAC--TTTCAACAACGGATCTCTTGGTTC-TGGCATCGATGAAGAACGCAGCAAAATGCGATAAGTA-ATGTGAA-TTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACATTGCGCCCGCCAGTAT--TCTGGCGGGCATGCCTGTTCGAGCGTCATTTCAACCCTCAAGCCC---AGCTTGGTGTTGGGACTCG-CGAGT------------TAAATCGCGTTCCCTCAAATTGATTGGCGGTCACGTCG-AGC",
+			"pin_array_13x2",
+			"13x2",
+			"ser",
+			"False",
+			"True",
+			"640",
+			"630",
+			"rss",
+			"whe",
+			"exeamediaplayer",
+			"cons",
+			"CREATE",
+			"home",
+			"$db",
+			"name",
+			"returnMessage",
+			"returnError",
+			"POST",
+			"HEADE",
+			"Done",
+			"Building Blocks",
+			"Buil",
+			"0e0e0e",
+			"7d7e7d",
+			"222b2d",
+			"-->",
+			"Caball",
+			"caba",
+			"cabañ",
+			"&iacute;",
+			"Bogot&aacute;",
+			"HTML5",
+			"23",
+			"Faceboo",
+			"Facboo",
+			"player",
+			"pod",
+			"poc",
+			"face",
+			"fact",
+			"size",
+			"programm",
+			"shift_s",
+			"toggle",
+			"comm",
+			"comme",
+			"div.",
+			"div#",
+			"max-height:",
+			"max-width:",
+			"Boxes",
+			"-b",
+			"upper-boxes",
+			"exea_audio_player_get_song",
+			"db",
+			"db_se",
+			"admin",
+			"exea_audio_player_get_song",
+			"get_curr",
+			"Ic2",
+			"Ib2",
+			"Ia2",
+			"unsigned char",
+			".ong",
+			".pdf",
+			"Iout(:, 1)",
+			"Ic",
+			"Ib",
+			"Ia",
+			"2,1",
+			"\"",
+			"exeamediaplayer",
+			"sudo "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"--",
+			"raspberry_conn",
+			"serialport",
+			"xbee",
+			"True",
+			"False",
+			"650",
+			"640",
+			"ExeaMediaPlayer",
+			"$functions",
+			"fullName",
+			"$db->returnMessage",
+			"db->returnMessage",
+			"returnMessage",
+			"GET",
+			"Aceptar",
+			"Titanes del Ajedrez",
+			"2c393b",
+			"222b2d",
+			"",
+			"í",
+			"Bogotá",
+			"<acronym title=\"HyperText Markup Language 5\">HTML5</acronym>",
+			"<acronym title=\"HyperText Markup Language 5\">HTML</acronym>",
+			"playerContainer",
+			"program",
+			".",
+			"#",
+			"height:",
+			"width:",
+			"Boxes box",
+			"B",
+			"upperBoxes",
+			"Icp",
+			"Ibp",
+			"Iap",
+			"char",
+			".png",
+			".ong",
+			"Iout(:, i)",
+			"Ic1",
+			"Ib1",
+			"Ic1",
+			"Ia1",
+			"1,2",
+			"'",
+			"ExeaMediaPlayer",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4970,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1888,
+								1888
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1495.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7931,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								610,
+								610
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"project": "energia.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

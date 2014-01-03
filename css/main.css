@@ -1,0 +1,277 @@
+@import url(http://fonts.googleapis.com/css?family=Podkova:700);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300);
+
+/*General settings*/
+body {
+	background-image: url("../img/bg-pattern.png");
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+}
+h1 {
+	font-family: 'Podkova', serif;
+	font-size: 20px;
+	padding: 10px 20px;
+	color: white;
+	background: transparent no-repeat;
+	width: 100%;
+	height: 40px;
+	text-transform: uppercase;
+}
+#main, header, footer {
+	clear: both;
+	max-width: 990px;
+}
+#main, #header, #info {
+	width: 915px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*Header*/
+header {
+	background-image: url("../img/bg-head.jpg");
+	background-repeat: no-repeat;
+	background-color: #E72D3F;
+	margin-right: auto;
+	margin-left: auto;
+	height: 200px;
+	overflow: visible;
+	margin-bottom: 18px;
+}
+#logo {
+    padding-top: 10px;
+}
+
+/*Player styles*/
+#playerContainer {
+	background-image: url("../img/bg-player.png");
+	height: 186px;
+	width: 560px;
+	float: right;
+	margin-top: 34px;
+}
+#jp_container_1 {
+	float: right;
+	height:125px;
+	width: 360px;
+	margin: 20px 0px 10px 0px;
+
+}
+
+/*Cover image*/
+#cover {
+    background: #E72D3F;
+    height:125px;
+    width: 125px;
+    float: left;
+    margin: 20px 0px 0px 50px;
+}
+
+/*Share song*/
+#shareSong {
+	float: right;
+	clear: right;
+	color: black;
+	margin-right: 30px;
+}
+#shareSong p span {
+	background-color: #E72D3F;
+	padding: 0px 5px;
+	vertical-align: middle;
+	text-align: center;
+}
+#shareSong p span#facebookShare {
+	padding: 0px 7px;
+}
+
+/*Content styles*/
+#main {
+	height: 720px;
+}
+.box {
+	background-color: white;
+	border-radius: 15px;
+	color: black;
+	margin: 17px;
+}
+.upperBoxes {
+	height: 270;
+	overflow: none;
+	float: left;
+}
+.lowerBoxes {
+	width: 271px;
+	height: 250px;
+	overflow: none;
+	float: left;
+}
+
+/*Boxes styles*/
+#news {
+	width: 398px;
+	height: 400px;
+}
+#newsContainer {
+	overflow: hidden;
+	height: 320px;
+}
+#podcasts, #program {
+	width: 200px;
+	height: 400px;
+	overflow: none;
+}
+#facebook {
+	clear: left;
+}
+#contact {
+    background: #09B7B6;
+    height: 185px;
+}
+#networks {
+    background: #09B7B6;
+    height: 30px;
+    border-radius: 5px;
+}
+
+/*Program*/
+#program ul li{
+    padding: 12px 0px 12px 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+/*News*/
+.itemNews {
+    height: 100px;
+    margin-bottom: 10px;
+}
+.imgNews {
+    float: left;
+    clear: left;
+    padding: 0px 10px 0px 20px; 
+}
+.itemNews p {
+    height: 60px;
+    overflow: hidden;
+}
+.itemNews .readMore {
+    color: black;
+    text-decoration: none;
+    margin-top: 10px;
+    padding: 3px 10px;
+    font-weight: bold;
+    background: #A1AC2A;
+    border-radius: 2px;
+}
+.itemNews h2 {
+    padding-bottom: 10px;
+}
+
+/*Podcasts*/
+#podcasts li{
+    height: 70px;
+    padding: 5px 0px;
+}
+#podcasts ul .odd{
+   	background: #ccc;
+}
+#podcasts ul li p, #podcasts ul li h2{
+    padding-left: 20px;
+    width: 140px;
+    float: left;
+}
+#podcasts ul li h2 {
+    padding-top: 5px;
+}
+#podcasts ul li p {
+    padding-top: 5px;
+}
+#podcasts span {
+    background: #BAC042;
+    border-radius: 100px;
+    width: 30px;
+    height: 30px;
+    float: right;
+    text-align: center;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+#podcasts span img {
+    margin-top: 7px;
+    margin-left: 2px;
+}
+
+/*Contact*/
+.contactText {
+	color: white;
+	list-style: circle outside none;
+	padding-left: 40px;
+	line-height: 20px;
+	margin-top: -15px;
+	font-weight: bold;
+}
+
+/*Social Networks*/
+.socialImg {
+	position: relative;
+	left: 130px;
+	bottom: 20px;
+	width: 100%;
+}
+#fbButton {
+	left: 25px;
+	position: relative;
+}
+
+/*Tittles of the boxes*/
+#programTittle {
+	background-image: url("../img/bg-program.png");
+	margin-top: 10px;
+	margin-left: -11px;
+}
+#newsTittle {
+	background-image: url("../img/bg.news.png");
+	margin-top: 0px;
+	margin-left: -11px;
+}
+#podcastsTittle {
+	background-image: url("../img/bg-podcast.png");
+	margin-top: 10px;
+	margin-left: 6px;
+}
+#contactTittle {
+	background-image: url("../img/bg-contact.png");
+	margin-top: -10px;
+	padding: 40px  0px 35px 20px;
+	margin-left: -11px;
+	width: 273px;
+}
+#networksTittle {
+	background-image: url("../img/bg-redes.png");
+	margin-top: -22px;
+	width: 225px;
+	background-position: 110px 3px;
+	padding-top: 27px;
+}
+#facebookTittle, #tweetsTittle {
+	color: #49524C;
+	height: 20px;
+}
+
+/*Footer styles*/
+footer {
+	height: 50px;
+	background: #878F2C;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 18px;
+}
+footer div {
+	padding-top: 10px;
+}
+#license {
+	float: left;
+}
+#credits {
+	float: right;
+}

@@ -4,6 +4,46 @@
 		"selected_items":
 		[
 			[
+				"up",
+				"updateMetadata"
+			],
+			[
+				"a",
+				"artist"
+			],
+			[
+				"met",
+				"updateMetadata"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"re",
+				"responseText"
+			],
+			[
+				"http",
+				"httpGet"
+			],
+			[
+				"str",
+				"streamingURL"
+			],
+			[
+				"tr",
+				"trackInfo"
+			],
+			[
+				"htt",
+				"httpGet"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
 				"pos",
 				"position"
 			],
@@ -22,10 +62,6 @@
 			[
 				"stream",
 				"stream01"
-			],
-			[
-				"re",
-				"repeat-x"
 			],
 			[
 				"ca",
@@ -371,15 +407,7 @@
 			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 10524,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/main.css",
-			"settings":
-			{
-				"buffer_size": 6079,
+				"buffer_size": 12065,
 				"line_ending": "Unix"
 			}
 		},
@@ -387,39 +415,7 @@
 			"file": "js/main.js",
 			"settings":
 			{
-				"buffer_size": 2661,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/sergio/Downloads/jQuery.jPlayer.2.5.0.demos/demo-02-multi-pf.htm",
-			"settings":
-			{
-				"buffer_size": 9069,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/home/sergio/Sites/Joomla/components/com_k2/templates/player/latest.php",
-			"settings":
-			{
-				"buffer_size": 5188,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/home/sergio/Sites/Joomla/components/com_k2/templates/player/latest_item.php",
-			"settings":
-			{
-				"buffer_size": 1337,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/sergio/Sites/Joomla/components/com_k2/templates/default/latest_item.php",
-			"settings":
-			{
-				"buffer_size": 5810,
+				"buffer_size": 3923,
 				"line_ending": "Unix"
 			}
 		}
@@ -427,9 +423,21 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 264.0,
+		"height": 201.0,
 		"selected_items":
 		[
+			[
+				"htm",
+				"Snippet: html"
+			],
+			[
+				"br",
+				"SFTP: Browse Server…"
+			],
+			[
+				"bro",
+				"SFTP: Browse Server…"
+			],
 			[
 				"ht",
 				"Set Syntax: HTML"
@@ -441,10 +449,6 @@
 			[
 				"lore",
 				"Snippet: Lorem ipsum"
-			],
-			[
-				"br",
-				"SFTP: Browse Server…"
 			],
 			[
 				"bre",
@@ -465,10 +469,6 @@
 			[
 				"snipp",
 				"Snippet: if __name__ == '__main__'"
-			],
-			[
-				"bro",
-				"SFTP: Browse Server…"
 			],
 			[
 				"ed",
@@ -531,10 +531,6 @@
 				"SFTP: Setup Server…"
 			],
 			[
-				"htm",
-				"Set Syntax: HTML"
-			],
-			[
 				"html",
 				"Set Syntax: HTML"
 			],
@@ -591,7 +587,7 @@
 				"Snippet: Octave function"
 			]
 		],
-		"width": 467.0
+		"width": 449.0
 	},
 	"console":
 	{
@@ -612,13 +608,22 @@
 	},
 	"file_history":
 	[
-		"/home/sergio/Downloads/jQuery.jPlayer.2.5.0.demos/demo-08-pf.htm",
-		"/home/sergio/Downloads/jQuery.jPlayer.2.5.0.demos/demo-02-multi-pf.htm",
-		"/home/sergio/Sites/Joomla/components/com_k2/templates/player/item.php",
+		"/home/sergio/Sites/Joomla/metadata/index.php",
+		"/tmp/fz3temp-1/mod_segmentation.php",
+		"/tmp/fz3temp-1/mod_case_studies2.php",
+		"/tmp/fz3temp-1/mod_articles_news.php",
+		"/tmp/fz3temp-1/mod_case_studies.php",
+		"/home/sergio/Sites/energiafmplayer/css/main.css",
+		"/usr/share/applications/kde4/ktorrent.desktop",
+		"/tmp/sublime-sftp-browse-1389031670/el01/var/www/vhost/drupal-7.22/sites/aguilaenvivo/modules/custom/aguila_audio_player/aguila_audio_player.module",
+		"/home/sergio/Sites/Joomla/components/com_k2/templates/default/latest_item.php",
 		"/home/sergio/Sites/Joomla/components/com_k2/templates/player/latest_item.php",
+		"/home/sergio/Sites/Joomla/components/com_k2/templates/player/latest.php",
+		"/home/sergio/Downloads/jQuery.jPlayer.2.5.0.demos/demo-02-multi-pf.htm",
+		"/home/sergio/Downloads/jQuery.jPlayer.2.5.0.demos/demo-08-pf.htm",
+		"/home/sergio/Sites/Joomla/components/com_k2/templates/player/item.php",
 		"/home/sergio/Sites/energiafmplayer/templateDetails.xml",
 		"/home/sergio/Sites/energiafmplayer/index.php",
-		"/home/sergio/Sites/energiafmplayer/css/main.css",
 		"/home/sergio/Sites/energiafmplayer/img/bg-contact.png",
 		"/home/sergio/Sites/energiafmplayer/index.html",
 		"/usr/share/xbmc/addons/skin.confluence/720p/VideoFullScreen.xml",
@@ -730,13 +735,7 @@
 		"/home/sergio/Downloads/app/data/app.js",
 		"/home/sergio/Downloads/app/data/content/index.html",
 		"/home/sergio/Downloads/app/data/bin/node",
-		"/home/sergio/Downloads/Programas/netbeans-7.4-linux.sh",
-		"/tmp/sublime-sftp-browse-1383666170/el01/var/www/vhost/drupal-7.22/sites/andres/modules/custom/andres_audio_player/js/andres_audio_player.js",
-		"/tmp/sublime-sftp-browse-1383661363/el01/var/www/vhost/drupal-7.22/sites/aguilaenvivo/modules/custom/aguila_audio_player/js/aguila_audio_player.js",
-		"/tmp/sublime-sftp-browse-1383661527/el01/var/www/vhost/drupal-7.22/sites/aguilaenvivo/modules/custom/aguila_audio_player/aguila_audio_player.module",
-		"/home/sergio/.config/sublime-text-3/Packages/User/sftp_servers/el01",
-		"/home/sergio/exeamediaplayer/scripts/setup.sh",
-		"/home/sergio/Downloads/buildamodule-resource-pack/buildamodule-resource-pack/Build Your First Drupal 7 Web Site/data/events.txt"
+		"/home/sergio/Downloads/Programas/netbeans-7.4-linux.sh"
 	],
 	"find":
 	{
@@ -754,6 +753,15 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"stre",
+			"stream0",
+			"stre",
+			"album",
+			"aguila_audio_player_variable_get",
+			"netw",
+			"div",
+			"netw",
+			"asi",
 			"facebookShare",
 			"text-de",
 			"podc",
@@ -909,7 +917,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -918,15 +926,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10524,
+						"buffer_size": 12065,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4283,
-								4283
+								3123,
+								3123
 							]
 						],
 						"settings":
@@ -938,58 +946,27 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1342.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "css/main.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6079,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2814,
-								2814
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1897.0,
+						"translation.y": 1345.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "js/main.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2661,
+						"buffer_size": 3923,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1212,
-								1212
+								3804,
+								3804
 							]
 						],
 						"settings":
@@ -1002,138 +979,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 360.0,
+						"translation.y": 1620.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/home/sergio/Downloads/jQuery.jPlayer.2.5.0.demos/demo-02-multi-pf.htm",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 9069,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								589,
-								589
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/home/sergio/Sites/Joomla/components/com_k2/templates/player/latest.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5188,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								864,
-								864
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 8.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/home/sergio/Sites/Joomla/components/com_k2/templates/player/latest_item.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1337,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1230,
-								1230
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 465.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/home/sergio/Sites/Joomla/components/com_k2/templates/default/latest_item.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5810,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5277,
-								5277
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1970.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -1141,7 +990,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 25.0
 	},
 	"input":
 	{
@@ -1181,7 +1030,7 @@
 	"project": "energia.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 46.0
 	},
 	"save_all_on_build": true,
 	"select_file":
